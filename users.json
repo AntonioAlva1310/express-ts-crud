@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "nombre": "Marco"
+    },
+    {
+        "id": 5,
+        "nombre": "Pedro"
+    },
+    {
+        "id": 4,
+        "nombre": "New name"
+    },
+    null,
+    null,
+    {
+        "id": 8,
+        "nombre": "Vivian"
+    }
+]
